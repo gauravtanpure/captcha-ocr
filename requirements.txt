@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+evaluate
+jiwer
+tqdm
+pillow
+streamlit
+opencv-python-headless==4.10.0.84
