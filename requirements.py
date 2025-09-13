@@ -6,4 +6,4 @@ jiwer
 tqdm
 pillow
 streamlit
-opencv-python-headless
+opencv-python-headless==4.10.0.84
