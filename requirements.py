@@ -6,3 +6,4 @@ jiwer
 tqdm
 pillow
 streamlit
+opencv-python-headless
